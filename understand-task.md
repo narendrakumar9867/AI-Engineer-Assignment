@@ -33,12 +33,15 @@ We are evaluating five core dimensions:
 
 ## Why This Fits ANDLAKE
 
-This task mirrors realistic ANDLAKE workflows:
+This assignment aligns with ANDLAKE because it combines:
 
-- natural language objective to structured experimentation
-- robust experimentation and explainability in one interface
-- agentic decision behavior with transparent traces
-- safe and reliable recommendations with escalation logic
+- **Analytics Agent**: natural language goal to structured analytical action.
+- **Notebook workflows**: exploration, experimentation, and reporting.
+- **ML platform workflows**: training, evaluation, comparison, and explainability.
+- **Agentic systems**: planner, validator, dynamic tool use, reflection, and final synthesis.
+- **Reliable AI behavior**: guardrails, uncertainty handling, and escalation logic.
+
+This is stronger than a simple model training assignment because it evaluates technical depth, system thinking, and product usability together.
 
 ## Reviewer Expectations
 
